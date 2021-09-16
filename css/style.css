@@ -278,6 +278,10 @@ pre {
   color: #1C9CEA;
 }
 
+.fa-discord:hover{
+  color: #7289da;
+}
+
 /* Animations */
 @keyframes slideInFromLeft {
   0% {
